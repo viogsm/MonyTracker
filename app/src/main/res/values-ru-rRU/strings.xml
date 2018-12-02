@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonyTracker</string>
+
+    <string name="hello">Привет Вася</string>
+</resources>
